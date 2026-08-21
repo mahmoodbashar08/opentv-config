@@ -36,4 +36,4 @@ If this policy changes, the updated version will be published at this same addre
 
 ## Contact
 
-Questions? Email **mahmoodbashar08@gmail.com**.
+Questions? Email **support@theopentv.com**.
