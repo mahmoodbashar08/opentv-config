@@ -1,0 +1,7 @@
+{
+  "_comment": "TEST ONLY. Never read by a released build -- update-gate.tsx points at version.json. A dev build is pointed here by hand to exercise the suggested-update sheet without stamping every real phone.",
+  "iosMinVersion": "1.1.9",
+  "androidMinVersion": "1.1.9",
+  "iosSuggestedVersion": "1.6.4",
+  "androidSuggestedVersion": "1.6.4"
+}
